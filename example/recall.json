@@ -4,15 +4,12 @@
   "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": false}
 
   
-  "key": {"column_name":"key", "type": "integer"},
+  "key": {"column_name":"model", "type": "integer"},
 
   "set": { "column_name":"set" , "type": "string"},
 
   
-  "binlist": [  
-	{"name": "model",
-     "value": {"column_name": "model", "type" : "String"}
-    },
+  "binlist": [
     {"name": "model_type",
      "value": {"column_name": "model_type", "type" : "String"}
     },
