@@ -1,0 +1,30 @@
+{
+  "version" : "1.0",
+  "input_type" : "csv",
+  "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": false}
+
+  
+  "key": {"column_name":"key", "type": "integer"},
+
+  "set": { "column_name":"set" , "type": "string"},
+
+  
+  "binlist": [  
+	{"name": "model",
+     "value": {"column_name": "model", "type" : "String"}
+    },
+    {"name": "model_type",
+     "value": {"column_name": "model_type", "type" : "String"}
+    },
+    {"name": "from",
+     "value": {"column_name": "from", "type" : "integer"}
+    },
+    {"name": "to",
+     "value": {"column_name": "to", "type" : "integer"}
+    },
+    {"name": "affected",
+     "value": {"column_name": "affected", "type" : "String"}
+    }
+  ]
+
+}
