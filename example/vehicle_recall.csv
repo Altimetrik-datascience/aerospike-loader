@@ -1,0 +1,52 @@
+model,model_type,from,to,affected
+M-Class,ML320 Diesel,2009,2010,Driver-Side Airbags
+M-Class,ML350,2009,2011,Driver-Side Airbags
+M-Class,ML450 Hybrid,2010,2011,Driver-Side Airbags
+M-Class,ML550,2017,2017,Driver-Side Airbags
+M-Class,AMG ML63,2009,2011,Driver-Side Airbags
+GLK-Class,GLK350,2010,2012,Driver-Side Airbags
+SLS-Class,SLS,2011,2014,Driver-Side Airbags
+E-Class,E350,2010,2011,Driver-Side Airbags
+E-Class,E550,2010,2011,Driver-Side Airbags
+E-Class,AMG E63,2010,2011,Driver-Side Airbags
+GL-Class,GL320 Diesel,2009,2010,Driver-Side Airbags
+GL-Class,GL350 Diesel,2011,2012,Driver-Side Airbags
+GL-Class,GL450,2009,2012,Driver-Side Airbags
+GL-Class,GL550,2009,2012,Driver-Side Airbags
+R-Class,R320 Diesel,2009,2010,Driver-Side Airbags
+R-Class,R350,2009,2012,Driver-Side Airbags
+SLK-Class,SLK280,2007,2008,Driver-Side Airbags
+SLK-Class,SLK350,2007,2008,Driver-Side Airbags
+SLK-Class,AMG SLK55,2007,2008,Driver-Side Airbags
+C-Class,C230,2005,2007,Driver-Side Airbags
+C-Class,C300,2008,2011,Driver-Side Airbags
+C-Class,C300 4MATIC,2005,2005,Driver-Side Airbags
+C-Class,C350,2006,2011,Driver-Side Airbags
+C-Class,AMG C63,2016,2017,Driver-Side Airbags
+GLK-Class,GLK350,2016,2017,Passenger-Side Airbags
+GLK-Class,GLK350 4MATIC,2010,2011,Passenger-Side Airbags
+"SLS-Class
+",SLS,2011,2011,Passenger-Side Airbags
+E-Class,E350 Coupe,2010,2011,Passenger-Side Airbags
+E-Class,E550 Coupe,2010,2011,Passenger-Side Airbags
+E-Class,E350 Cabriolet,2011,2011,Passenger-Side Airbags
+E-Class,E550 Cabriolet,2011,2011,Passenger-Side Airbags
+C-Class,C300,2008,2011,Passenger-Side Airbags
+C-Class,C300 4MATIC,2008,2011,Passenger-Side Airbags
+C-Class,C350,2008,2011,Passenger-Side Airbags
+C-Class,AMG C63,2009,2011,Passenger-Side Airbags
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
