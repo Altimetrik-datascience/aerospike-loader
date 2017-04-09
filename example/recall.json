@@ -4,7 +4,7 @@
   "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": false}
 
   
-  "key": {"column_name":"model", "type": "string"},
+  "model": {"column_name":"model", "type": "string"},
 
   "set": { "column_name":"set" , "type": "string"},
 
