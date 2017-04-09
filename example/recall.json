@@ -1,10 +1,13 @@
 {
   "version" : "1.0",
   "input_type" : "csv",
-  "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": false}
+  "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": true}
 
   
-  "key": {"column_name":"model", "type": "string"},  
+  "key": { "column_name":"model", "type": "string"},  
+
+  "set": { "column_name":"set" , "type": "string"},
+
   
   "binlist": [
     {"name": "model_type",
