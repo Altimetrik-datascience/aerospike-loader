@@ -1,4 +1,4 @@
-key,model_type,from,to,affected
+model,model_type,from,to,affected
 M-Class,ML320 Diesel,2009,2010,Driver-Side Airbags
 M-Class,ML350,2009,2011,Driver-Side Airbags
 M-Class,ML450 Hybrid,2010,2011,Driver-Side Airbags
@@ -35,18 +35,3 @@ C-Class,C300,2008,2011,Passenger-Side Airbags
 C-Class,C300 4MATIC,2008,2011,Passenger-Side Airbags
 C-Class,C350,2008,2011,Passenger-Side Airbags
 C-Class,AMG C63,2009,2011,Passenger-Side Airbags
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,

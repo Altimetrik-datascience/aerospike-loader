@@ -4,14 +4,14 @@
   "csv_style": { "delimiter": "," , "n_columns_datafile": 6, "ignore_first_line": false}
 
   
-  "key": {"column_name":"key", "type": "integer"},
+  "model": {"column_name":"model", "type": "string"},
 
   "set": { "column_name":"set" , "type": "string"},
 
   
   "binlist": [
     {"name": "model_type",
-     "value": {"column_name": "model_type", "type" : "String"}
+     "value": {"column_name": "model_type", "type" : "string"}
     },
     {"name": "from",
      "value": {"column_name": "from", "type" : "integer"}
@@ -20,7 +20,7 @@
      "value": {"column_name": "to", "type" : "integer"}
     },
     {"name": "affected",
-     "value": {"column_name": "affected", "type" : "String"}
+     "value": {"column_name": "affected", "type" : "string"}
     }
   ]
 
